@@ -16,6 +16,7 @@ export default {
     { label: '신부 장유지', bank: '국민', number: '772001-04-166903', name: '장유지' }
   ],
   gallery: [
+    new URL('./assets/images/wedding1.jpg', import.meta.url).href,
     './src/assets/images/wedding1.jpg',
     './src/assets/images/wedding2.jpg',
     './src/assets/images/wedding3.jpg',
