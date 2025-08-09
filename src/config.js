@@ -16,19 +16,20 @@ export default {
     { label: '신부 장유지', bank: '국민', number: '772001-04-166903', name: '장유지' }
   ],
   gallery: [
-    '/src/assets/images/wedding1.jpg',
-    '/src/assets/images/wedding2.jpg',
-    '/src/assets/images/wedding3.jpg',
-    '/src/assets/images/wedding4.jpg',
-    '/src/assets/images/wedding5.jpg',
-    '/src/assets/images/wedding6.jpg',
-    '/src/assets/images/wedding7.jpg',
-    '/src/assets/images/wedding8.jpg',
-    '/src/assets/images/wedding9.jpg',
-    '/src/assets/images/wedding10.jpg',
-    '/src/assets/images/wedding11.jpg',
-    '/src/assets/images/wedding12.jpg',
-    '/src/assets/images/wedding13.jpg',
-    '/src/assets/images/wedding14.jpg'
+    './src/assets/images/wedding1.jpg',
+    './src/assets/images/wedding2.jpg',
+    './src/assets/images/wedding3.jpg',
+    './src/assets/images/wedding4.jpg',
+    './src/assets/images/wedding5.jpg',
+    './src/assets/images/wedding6.jpg',
+    './src/assets/images/wedding7.jpg',
+    './src/assets/images/wedding8.jpg',
+    './src/assets/images/wedding9.jpg',
+    './src/assets/images/wedding10.jpg',
+    './src/assets/images/wedding11.jpg',
+    './src/assets/images/wedding12.jpg',
+    './src/assets/images/wedding13.jpg',
+    './src/assets/images/wedding14.jpg',
+    './src/assets/images/wedding15.jpg'
   ]
 }

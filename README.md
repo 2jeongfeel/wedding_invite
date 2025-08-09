@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# wedding_invite
-mobile_wedding_invite
-=======
 # 모바일 청첩장 - 이정필 & 장유지 (Vue 3 + Vite)
 
 요청하신 순서에 맞춰 구성된 **순수 Vue 3** 템플릿입니다. (카카오톡 공유 / RSVP 없음)
@@ -29,4 +25,3 @@ npm run build
 ```
 
 MIT License
->>>>>>> 74fa437 (init: wedding invite)
