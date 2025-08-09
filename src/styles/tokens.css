@@ -1,0 +1,11 @@
+:root {
+  --bg: #ffffff;          /* white background */
+  --text: #1f2937;        /* deep gray text */
+  --muted: #6b7280;       /* muted text */
+  --surface: #f8f9fb;     /* light surface if needed */
+  --primary: #7a5a45;     /* accent for buttons/links */
+  --primary-contrast: #ffffff;
+  --radius: 12px;
+  --shadow: 0 2px 10px rgba(0,0,0,.04);
+  --divider: #eceff1;     /* subtle divider */
+}
